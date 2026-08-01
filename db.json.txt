@@ -1,0 +1,9 @@
+"premiumUser": {
+    "c": {
+      "creator": "+50932362106" // remplacez par votre numéro 
+    },
+    "p": {
+      "premium": "+50932362106" // remplacez par votre numéro 
+    }
+  }
+}
